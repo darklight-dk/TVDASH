@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Ejemplo Serie",
+    "cover": "https://via.placeholder.com/300x450?text=Serie",
+    "description": "Descripción de la serie.",
+    "genre": "Drama",
+    "year": "2024",
+    "rating": "8.0",
+    "director": "",
+    "actors": "",
+    "episodes": {
+      "1": [
+        {
+          "id": 101,
+          "episode": 1,
+          "title": "Piloto",
+          "url": "https://example.com/serie-s01e01.mp4",
+          "date": "2024-01-01"
+        },
+        {
+          "id": 102,
+          "episode": 2,
+          "title": "Episodio 2",
+          "url": "https://example.com/serie-s01e02.mp4",
+          "date": "2024-01-08"
+        }
+      ]
+    }
+  }
+]
