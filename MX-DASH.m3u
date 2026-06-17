@@ -290,3 +290,134 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZAZ.mx@SD" tvg-logo="" group-title="Entretenimiento",ZAZ (1080p)
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+#EXTINF:-1 group-title="BETA",A&E HD
+http://181.224.200.5:2277/play/a01e/index.m3u8
+#EXTINF:-1 group-title="BETA",ATV
+http://181.224.200.5:2277/play/3232/index.m3u8
+#EXTINF:-1 group-title="BETA",AXN HD
+http://181.224.200.5:2277/play/a01h/index.m3u8
+#EXTINF:-1 group-title="BETA",America TV HD
+http://181.224.200.5:2277/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="BETA",Animal Planet HD
+http://181.224.200.5:2277/play/a00r/index.m3u8
+#EXTINF:-1 group-title="BETA",Cinecanal HD
+http://181.224.200.5:2277/play/a013/index.m3u8
+#EXTINF:-1 group-title="BETA",De Pelicula
+http://181.224.200.5:2277/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="BETA",Discovery Channel HD
+http://181.224.200.5:2277/play/a00t/index.m3u8
+#EXTINF:-1 group-title="BETA",Discovery Kids HD
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1 group-title="BETA",Discovery Theater HD
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="BETA",Discovery World HD
+http://181.224.200.5:2277/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="BETA",Disney HD
+http://181.224.200.5:2277/play/a014/index.m3u8
+#EXTINF:-1 group-title="BETA",Disney Jr.
+http://181.224.200.5:2277/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN 2 HD
+http://181.224.200.5:2277/play/a02c/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN 3 HD
+http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN 4 HD
+http://181.224.200.5:2277/play/a02o/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN 5 HD
+http://181.224.200.5:2277/play/a02k/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN 6 HD
+http://181.224.200.5:2277/play/a02h/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN 7 HD
+http://181.224.200.5:2277/play/a02l/index.m3u8
+#EXTINF:-1 group-title="BETA",ESPN HD
+http://181.224.200.5:2277/play/aa07/index.m3u8
+#EXTINF:-1 group-title="BETA",El Gourmet HD
+http://181.224.200.5:2277/play/a00n/index.m3u8
+#EXTINF:-1 group-title="BETA",FX HD
+http://181.224.200.5:2277/play/a011/index.m3u8
+#EXTINF:-1 group-title="BETA",Global
+http://181.224.200.5:2277/play/a0co/index.m3u8
+#EXTINF:-1 group-title="BETA",Golden Edge
+http://181.224.200.5:2277/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="BETA",Golden HD
+http://181.224.200.5:2277/play/a0do/index.m3u8
+#EXTINF:-1 group-title="BETA",History 2
+http://181.224.200.5:2277/play/a01b/index.m3u8
+#EXTINF:-1 group-title="BETA",History Channel HD
+http://181.224.200.5:2277/play/a02b/index.m3u8
+#EXTINF:-1 group-title="BETA",Home & Health HD
+http://181.224.200.5:2277/play/a00p/index.m3u8
+#EXTINF:-1 group-title="BETA",ID HD
+http://181.224.200.5:2277/play/a00m/index.m3u8
+#EXTINF:-1 group-title="BETA",LOVE NATURE
+http://181.224.200.5:2277/play/a036/index.m3u8
+#EXTINF:-1 group-title="BETA",Las Estrellas HD
+http://181.224.200.5:2277/play/a00s/index.m3u8
+#EXTINF:-1 group-title="BETA",NTN24
+http://181.224.200.5:2277/play/a026/index.m3u8
+#EXTINF:-1 group-title="BETA",Nat Geo HD
+http://181.224.200.5:2277/play/a012/index.m3u8
+#EXTINF:-1 group-title="BETA",Nat Geo HD (2)
+http://181.224.200.5:2277/play/5684/index.m3u8
+#EXTINF:-1 group-title="BETA",Nickelodeon HD
+http://181.224.200.5:2277/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="BETA",Panamericana
+http://181.224.200.5:2277/play/kkio/index.m3u8
+#EXTINF:-1 group-title="BETA",Paramount HD
+http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:-1 group-title="BETA",Pasiones HD
+http://181.224.200.5:2277/play/4324/index.m3u8
+#EXTINF:-1 group-title="BETA",RPP
+http://181.224.200.5:2277/play/a04b/index.m3u8
+#EXTINF:-1 group-title="BETA",Sony HD
+http://181.224.200.5:2277/play/a01f/index.m3u8
+#EXTINF:-1 group-title="BETA",Star Channel HD
+http://181.224.200.5:2277/play/a00z/index.m3u8
+#EXTINF:-1 group-title="BETA",Studio Universal HD
+http://181.224.200.5:2277/play/a01j/index.m3u8
+#EXTINF:-1 group-title="BETA",Telemundo
+http://181.224.200.5:2277/play/a01q/index.m3u8
+#EXTINF:-1 group-title="BETA",Tlnovelas
+http://181.224.200.5:2277/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="BETA",UNIVERSAL CHANNEL HD
+http://181.224.200.5:2277/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="BETA",UP
+http://181.224.200.5:2277/play/a0d2/index.m3u8
+#EXTINF:-1 group-title="BETA",Warner Channel HD
+http://181.224.200.5:2277/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 2)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 3)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 4)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 5)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 7)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 8)
+http://190.117.20.37:8000/play/a08d/index.m3u
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 9)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="mundial",DSports (Opción 10)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 group-title="Anime",Pluto TV Naruto
+https://stitcher-ipv4.pluto.tv/stitch/hls/ch/604130f40d3a7700076bf22b/master.m3u8
+#EXTINF:-1 group-title="Anime",Pluto TV Yu-Gi-Oh!
+https://stitcher-ipv4.pluto.tv/stitch/hls/ch/60fa630ee78c3b0007e05e5d/master.m3u8
+#EXTINF:-1 group-title="Anime",Pluto TV Death Note
+https://stitcher-ipv4.pluto.tv/stitch/hls/ch/623223019ee65400072b2201/master.m3u8
+#EXTINF:-1 group-title="Anime",Pluto TV Inuyasha
+https://stitcher-ipv4.pluto.tv/stitch/hls/ch/63e15777170cc700080bc6a5/master.m3u8
+#EXTINF:-1 group-title="Anime",Pluto TV One Piece
+https://stitcher-ipv4.pluto.tv/stitch/hls/ch/6183fc672109650008b8b0e8/master.m3u8
+#EXTINF:-1 group-title="Anime",Runtime Anime (Plex)
+https://lnc-runtime-anime.player.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Anime",Retro Crush (Anime Clásico)
+https://lnc-retrocrush.player.amagi.tv/playlist.m3u8
